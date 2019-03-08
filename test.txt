@@ -1,5 +1,5 @@
-//For commit GitHub tutorial
-//GitHub modification
+//First Github modification
+//Second modification
 print("Hello World");
 print("Tell Your World");
 print("Tell her World");
