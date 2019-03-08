@@ -1,3 +1,5 @@
-print("Hello Wolrd");
-print("Tell Your Wolrd");
+//For commit GitHub tutorial
+//GitHub modification
+print("Hello World");
+print("Tell Your World");
 print("Tell her World");
